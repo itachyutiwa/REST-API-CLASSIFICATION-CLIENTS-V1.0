@@ -1,8 +1,8 @@
 # REST API pour la Classification des Clients
 
 ## Ce référentiel GitHub contient le code source et la documentation pour notre REST API dédiée à la classification des clients.
-
-## Notre API offre une solution puissante pour intégrer les fonctionnalités de classification de clients dans diverses applications et systèmes. Avec cette API, ## vous pouvez tirer parti de notre modèle de classification avancé pour prendre des décisions éclairées et mettre en œuvre des stratégies marketing ciblées.
+Notre API offre une solution puissante pour intégrer les fonctionnalités de classification de clients dans diverses applications et systèmes. Avec cette API,
+vous pouvez tirer parti de notre modèle de classification avancé pour prendre des décisions éclairées et mettre en œuvre des stratégies marketing ciblées.
 
 Caractéristiques principales :
 
